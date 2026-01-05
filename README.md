@@ -116,3 +116,5 @@ task-quest/
 - **Tailwind CSS** - Utility-first CSS framework
 - **Lucide React** - Icon library
 - **LocalStorage** - Data persistence
+
+Have fun being productive!
